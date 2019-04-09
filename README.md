@@ -1,3 +1,5 @@
+**NOTE:** This provider is now built into the [atom-ide-definitions](https://github.com/atom-ide-community/atom-ide-definitions) package, starting with version 0.3.0 [PR#4](https://github.com/atom-ide-community/atom-ide-definitions/pull/4).
+
 atom-ide-click package
 ---
 [Hyperclick][] provider for [Atom IDE Community][] Definitions [package][atom-ide-definitions]
